@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d1dc72ada7ee8278bc7159bb01cebf3f06cbc9cffe9b486378c2651134d87cbb"
+            "sha256": "d338fa73cc2920c19feda1f524a67e12b4c10d62f5a8d913f849411b0684770a"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -119,11 +119,11 @@
         },
         "censys": {
             "hashes": [
-                "sha256:510ce84a9b49bf4d745cfd37370498a8af80e1e30f502369a299b048895fa2a4",
-                "sha256:926aa55648abb01451f22a1bef03c8777dac8e550979ce5662be079fdf9c0e94"
+                "sha256:0a2e2c73471d37fb55c4c5597d48334cfc56fd39daebbae18c7b07f0d2a51dc4",
+                "sha256:d7d935ffe3309f8279d566113f2d958803154fd090ad07abe0d3458a396db9fd"
             ],
             "index": "pypi",
-            "version": "==1.1.0"
+            "version": "==1.1.1"
         },
         "certifi": {
             "hashes": [
